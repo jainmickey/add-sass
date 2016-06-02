@@ -2,7 +2,6 @@
 - name: get the latest code
   git: repo={{ project_repo_url }} dest={{ project_path }} version={{ repo_version }} accept_hostkey=true
   become: false
-  when: vm is undefined
   tags: [always]
 
 - name: manually create the initial virtualenv

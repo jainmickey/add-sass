@@ -2,5 +2,5 @@
 pg_hstore: False
 pg_gis: False
 pg_db: hello_world
-pg_user: dev
+pg_user: ubuntu
 pg_password: password
