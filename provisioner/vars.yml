@@ -1,0 +1,11 @@
+---
+project_name: hello_world
+project_repo_url: git@github.com:Fueled/hello-world-web.git
+project_repo_remote: origin
+vm: 0  # Deafult value for vm (virtual Machine)
+domain_name: hello_world.com
+repo_version: master
+python3: False
+py_venv_version: 2.7
+pg_gis: False
+sass_with_django_compressor: True
