@@ -1,9 +1,9 @@
 ---
 project_name: hello_world
-project_repo_url: git@github.com:Fueled/hello-world-web.git
+project_repo_url: git@github.com:jainmickey/add-sass.git
 project_repo_remote: origin
 vm: 0  # Deafult value for vm (virtual Machine)
-domain_name: hello_world.com
+domain_name: letsencrypt-test.fueled.com
 repo_version: master
 python3: False
 py_venv_version: 2.7
